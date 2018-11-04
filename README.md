@@ -45,15 +45,15 @@ Countdown jQuery Plugin
           }
         },
         labels: {
-          "EN": {
-            day: 'day',
-            days: 'days',
-            hour: 'hour',
-            hours: 'hours',
-            minute: 'minute',
-            minutes: 'minutes',
-            second: 'second',
-            seconds: 'seconds',
+          "PT_BR": {
+            day: 'dia',
+            days: 'dias',
+            hour: 'hora',
+            hours: 'horas',
+            minute: 'minuto',
+            minutes: 'minutos',
+            second: 'segundo',
+            seconds: 'segundos',
           }
         }
       }
